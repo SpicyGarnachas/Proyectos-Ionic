@@ -1,5 +1,7 @@
 {
-  "name": "ionic-app-base",
-  "integrations": {},
+  "name": "listaSimple",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
