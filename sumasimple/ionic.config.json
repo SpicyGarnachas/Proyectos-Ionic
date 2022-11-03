@@ -1,0 +1,7 @@
+{
+  "name": "sumasimple",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
