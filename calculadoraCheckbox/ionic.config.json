@@ -1,0 +1,7 @@
+{
+  "name": "calculadoraCheckbox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
