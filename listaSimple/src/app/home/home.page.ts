@@ -7,6 +7,18 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  valor="";
+  lista=[];
+  mensaje="";
+
   constructor() {}
 
+  Agregar(){
+    if(!!this.valor){
+      this.lista.push(this.valor);
+      this.valor = "";
+    }else{
+      this.mensaje = "Error al capturar datos";
+    }
+  }
 }
