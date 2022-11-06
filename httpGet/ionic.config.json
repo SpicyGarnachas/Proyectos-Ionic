@@ -1,0 +1,7 @@
+{
+  "name": "httpGet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
