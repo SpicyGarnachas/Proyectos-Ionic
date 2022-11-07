@@ -1,0 +1,7 @@
+{
+  "name": "navegacionParametros",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
